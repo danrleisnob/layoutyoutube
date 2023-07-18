@@ -8,10 +8,11 @@ Link da Página
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-CSS
-HTML5
+- [CSS](<https://www.css3.com/>)
+- [HTML5](<https://html.spec.whatwg.org/multipage/>)
 
 
 # Objetivo
 Copiar layout do youtube.
+
 
