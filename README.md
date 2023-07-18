@@ -2,7 +2,7 @@
 Atividade DIO.ME
 
 Link da Página
-[https://danrleisnob.github.io/explorersipecdecipex/]
+[https://danrleisnob.github.io/layoutyoutube/]
 
 # 🛠 Tecnologias
 
